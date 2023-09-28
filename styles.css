@@ -1,6 +1,6 @@
-*{
+.holder{
 	display:flex;
-	flex-direction:row;
-	flexwrap:wrap;
+	justify-content:center;
+	flex-wrap:wrap;
 }
 /* Your CSS Code here. */
