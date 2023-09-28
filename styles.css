@@ -1,2 +1,6 @@
-
+*{
+	display:flex;
+	flex-direction:row;
+	flexwrap:wrap;
+}
 /* Your CSS Code here. */
